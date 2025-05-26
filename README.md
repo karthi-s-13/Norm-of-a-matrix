@@ -20,8 +20,8 @@ End the program.
 # 1-Norm of a Matrix
 '''
 Program to find 2-norm of a matrix.
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber: 23012450
+Developed by: KARTHIKEYAN S
+RegisterNumber: 212224230116
 '''
 import numpy as np
 mat = np.array(eval(input()))
